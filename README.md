@@ -1,12 +1,10 @@
-![](https://s19.postimg.org/jblfytw9f/laradock-logo.jpg)
-
-[![Build Status](https://travis-ci.org/laradock/laradock.svg?branch=master)](https://travis-ci.org/laradock/laradock)
+# Laradock
 
 > Use Docker first and learn about it later.
 
-A Docker PHP development environment that facilitates running **PHP** Apps on **Docker**.
-
 [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://zalt.me)
+
+Laradock is a Docker PHP development environment that facilitate running **PHP** Apps on **Docker**.
 
 ## Documentation
 
@@ -14,16 +12,19 @@ A Docker PHP development environment that facilitates running **PHP** Apps on **
 
 ## Credits
 
-**Maintainers:**
+**Super Admins:**
 
-- [Mahmoud Zalt](https://github.com/Mahmoudz) @mahmoudz | [Twitter](https://twitter.com/Mahmoud_Zalt) | [Site](http://zalt.me)
-- [Bo-Yi Wu](https://github.com/appleboy) @appleboy | [Twitter](https://twitter.com/appleboy)
-- [Philippe Trépanier](https://github.com/philtrep) @philtrep
-- [Mike Erickson](https://github.com/mikeerickson) @mikeerickson
-- [Dwi Fahni Denni](https://github.com/zeroc0d3) @zeroc0d3
-- [Thor Erik](https://github.com/thorerik) @thorerik
-- [Winfried van Loon](https://github.com/winfried-van-loon) @winfried-van-loon
-- Join Us.
+- [Mahmoud Zalt](https://github.com/Mahmoudz) (mahmoudz)  [ [Twitter](https://twitter.com/Mahmoud_Zalt) | [Personal Site](http://zalt.me) | [LinkedIn](https://www.linkedin.com/in/mahmoudzalt) ]
+- [Bo-Yi Wu](https://github.com/appleboy) (appleboy) [ [Twitter](https://twitter.com/appleboy) ]
+- [Philippe Trépanier](https://github.com/philtrep) (philtrep)
+- [Mike Erickson](https://github.com/mikeerickson) (mikeerickson)
+- [Dwi Fahni Denni](https://github.com/zeroc0d3) (zeroc0d3)
+- [Thor Erik](https://github.com/thorerik) (thorerik)
+- Contribute and join us!
+
+**Amazing Contributors:**
+
+- [Contributors](https://github.com/laradock/laradock/graphs/contributors)
 
 ## License
 

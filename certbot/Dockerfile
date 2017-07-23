@@ -1,7 +1,5 @@
 FROM phusion/baseimage:latest
 
-MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
-
 COPY run-certbot.sh /root/certbot/run-certbot.sh
 
 RUN apt-get update

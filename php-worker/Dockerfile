@@ -9,8 +9,6 @@
 
 FROM nielsvdoorn/laravel-supervisor
 
-MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
-
 #
 #--------------------------------------------------------------------------
 # Optional Supervisord Configuration

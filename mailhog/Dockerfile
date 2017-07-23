@@ -1,6 +1,6 @@
 FROM mailhog/mailhog
 
-MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
+Maintainer Mahmoud Zalt <mahmoud@zalt.me>
 
 CMD ["Mailhog"]
 
