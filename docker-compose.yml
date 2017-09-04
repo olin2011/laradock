@@ -101,7 +101,7 @@ services:
       context: ./nodejs
       args:
           - INSTALL_NODE=${NODEJS_NODE_VERSION}
-          - INSTALL_YARN=${NODEJS_YARN_VERSION}  
+          - INSTALL_YARN=${NODEJS_YARN_VERSION}
       volumes_from:
         - applications
       expose:
